@@ -1,0 +1,8 @@
+D:\Projects\BigRunner\src\BigRunner.WinFormsApp\bin\Debug\BigRunner.WinFormsApp.exe
+D:\Projects\BigRunner\src\BigRunner.WinFormsApp\bin\Debug\BigRunner.WinFormsApp.pdb
+D:\Projects\BigRunner\src\BigRunner.WinFormsApp\obj\Debug\BigRunner.WinFormsApp.Properties.Resources.resources
+D:\Projects\BigRunner\src\BigRunner.WinFormsApp\obj\Debug\BigRunner.WinFormsApp.csproj.GenerateResource.Cache
+D:\Projects\BigRunner\src\BigRunner.WinFormsApp\obj\Debug\BigRunner.WinFormsApp.exe
+D:\Projects\BigRunner\src\BigRunner.WinFormsApp\obj\Debug\BigRunner.WinFormsApp.pdb
+D:\Projects\BigRunner\src\BigRunner.WinFormsApp\obj\Debug\BigRunner.WinFormsApp.Main.resources
+D:\Projects\BigRunner\src\BigRunner.WinFormsApp\obj\Debug\BigRunner.WinFormsApp.csprojResolveAssemblyReference.cache

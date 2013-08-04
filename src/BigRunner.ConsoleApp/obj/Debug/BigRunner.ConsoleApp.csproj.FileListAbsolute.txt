@@ -1,0 +1,4 @@
+D:\Projects\BigRunner\src\BigRunner.ConsoleApp\bin\Debug\BigRunner.ConsoleApp.exe
+D:\Projects\BigRunner\src\BigRunner.ConsoleApp\bin\Debug\BigRunner.ConsoleApp.pdb
+D:\Projects\BigRunner\src\BigRunner.ConsoleApp\obj\Debug\BigRunner.ConsoleApp.exe
+D:\Projects\BigRunner\src\BigRunner.ConsoleApp\obj\Debug\BigRunner.ConsoleApp.pdb
